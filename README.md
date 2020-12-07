@@ -1,4 +1,4 @@
-# DenineS_oh_my_zsh_Theme
+# DenineS oh-my-zsh Theme
 A short and descriptive oh-my-zsh Theme with git support.
 
 
